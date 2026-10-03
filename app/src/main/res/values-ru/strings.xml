@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mini Launcher</string>
+    <string name="app_info">О приложении</string>
+    <string name="uninstall">Удалить</string>
+</resources>
