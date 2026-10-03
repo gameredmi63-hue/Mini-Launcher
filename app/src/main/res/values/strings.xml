@@ -1,0 +1,5 @@
+resources>
+    <string name="app_name">Mini Launcher</string>
+    <string name="app_info">App info</string>
+    <string name="uninstall">Uninstall</string>
+</resources>
